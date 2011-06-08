@@ -1,19 +1,20 @@
 /************************************************************************************************************************************
- *	fb.wall				Facebook Wall jQuery Plugin
- *  fb.comment          Facebook Comment jQuery Plugin
+ *    fb.wall           Facebook Wall jQuery Plugin
+ *    fb.comment        Facebook Comment jQuery Plugin
+ *    fb.like           Facebook Comment jQuery Plugin
  *
- *	@author:			Daniel Benkenstein / neosmart GmbH
+ *    @author:          Daniel Benkenstein / neosmart GmbH
  *                      Zach Snow
- *	@version:			1.2.6
+ *    @version:         1.2.6
  *                      1.0.0
- *	@Last Update:		01.04.2011
- *                      05.26.2011
- *	@licence:			MIT (http://www.opensource.org/licenses/mit-license.php)
- *						GPL	(http://www.gnu.org/licenses/gpl.html)
- *	@documentation:		http://www.neosmart.de/social-media/facebook-wall
+ *    @Last Update:     01.04.2011
+ *                      06.08.2011
+ *    @licence:         MIT (http://www.opensource.org/licenses/mit-license.php)
+ *                      GPL (http://www.gnu.org/licenses/gpl.html)
+ *    @documentation:   http://www.neosmart.de/social-media/facebook-wall
  *                      (none)
- *	@feedback:			http://www.neosmart.de/blog/jquery-plugin-facebook-wall
- *	                    support@instantautomatic.com
+ *    @feedback:        http://www.neosmart.de/blog/jquery-plugin-facebook-wall
+ *                      support@instantautomatic.com
  ************************************************************************************************************************************/
 
 (function($) {
@@ -250,7 +251,7 @@
         translateLikesThis: 'likes this',
         translateErrorNoData: 'has not shared any information.',
         translatePeople: 'people',
-        timeConversion:	24,
+        timeConversion:    24,
         useAvatarAlternative: false,
         useAvatarExternal: false
     };
