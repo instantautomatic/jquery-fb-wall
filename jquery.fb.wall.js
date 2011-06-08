@@ -4,7 +4,7 @@
  *    fb.like           Facebook Comment jQuery Plugin
  *
  *    @author:          Daniel Benkenstein / neosmart GmbH
- *                      Zach Snow
+ *                      Zach Snow / Instant Automatic Inc.
  *    @version:         1.2.6
  *                      1.0.0
  *    @Last Update:     01.04.2011
