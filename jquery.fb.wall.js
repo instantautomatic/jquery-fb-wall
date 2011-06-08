@@ -239,20 +239,20 @@
      * Defaults
      **************************************************************************/
     $.fn.fbWall.defaults = {
-        avatarAlternative:		'avatar-alternative.jpg',
-        avatarExternal:			'avatar-external.jpg',
-        id: 					'neosmart.gmbh',
-        max:					5,
-        showComments:			true,
-        showGuestEntries:		true,
-        translateAt:			'at',
-        translateLikeThis:		'like this',
-        translateLikesThis:		'likes this',
-        translateErrorNoData:	'has not shared any information.',
-        translatePeople:		'people',
-        timeConversion:			24,
-        useAvatarAlternative:	false,
-        useAvatarExternal:		false
+        avatarAlternative: 'images/avatar_alternative.jpg',
+        avatarExternal: 'images/avatar_external.jpg',
+        id: 'neosmart.gmbh',
+        max: 5,
+        showComments: true,
+        showGuestEntries: true,
+        translateAt: 'at',
+        translateLikeThis: 'like this',
+        translateLikesThis: 'likes this',
+        translateErrorNoData: 'has not shared any information.',
+        translatePeople: 'people',
+        timeConversion:	24,
+        useAvatarAlternative: false,
+        useAvatarExternal: false
     };
 
     /***************************************************************************
@@ -507,8 +507,8 @@
      * Defaults
      **************************************************************************/
     $.fn.fbComments.defaults = {
-        avatarAlternative:      'avatar-alternative.jpg',
-        avatarExternal:         'avatar-external.jpg',
+        avatarAlternative:      'images/avatar_alternative.jpg',
+        avatarExternal:         'images/avatar_external.jpg',
         max:                    10,
         translateAt:            'at',
         translateLikeThis:      'like this',

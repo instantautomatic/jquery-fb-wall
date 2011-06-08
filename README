@@ -1,0 +1,11 @@
+This is an extension of the excellent fb.wall jQuery plugin by Neosmart.  For the original, see:
+
+http://www.neosmart.de/social-media/facebook-wall
+
+This extension adds the following plugins:
+
+  fbLikes: shows likes for a Facebook object.
+  
+  fbComments: shows comments for a Facebook object.
+
+It's rough around the edges at the moment; apologies.

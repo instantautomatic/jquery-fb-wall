@@ -16,7 +16,7 @@
 }
 .fb-wall.loading {
     height:300px;
-    background:url('/static/images/jquery.fb.wall/loader-small.gif') no-repeat center center;
+    background:url('images/loader_small.gif') no-repeat center center;
 }
 .fb-wall-box {
     margin-bottom:10px;
@@ -109,12 +109,12 @@
     margin-bottom:2px;
     display:block;
     font-size:11px;
-    background:url('/static/images/jquery.fb.wall/like.gif') no-repeat 0 0 #FFF;
+    background:url('images/like.gif') no-repeat 0 0 #FFF;
     padding-top:5px;
 }
 .fb-wall-likes div {
     margin:0;
-    background:url('/static/images/jquery.fb.wall/like.gif') no-repeat 0 -5px #EDEFF4;
+    background:url('images/like.gif') no-repeat 0 -5px #EDEFF4;
     padding:5px 5px 4px 24px;
 }
 .fb-wall-likes div span {
@@ -224,11 +224,11 @@ box-sizing: border-box;
 .fb-like-button {
     display: block; float: left;
     width: 50px; height: 22px;
-    background:url('/static/images/jquery.fb.wall/like_button.gif') no-repeat 0 0 #FFF;
+    background:url('images/like_button.gif') no-repeat 0 0 #FFF;
     text-indent: -99999em;
 }
 
 .fb-like-button-clicked {
-    background:url('/static/images/jquery.fb.wall/like_button_clicked.gif') no-repeat 0 0 #FFF;
+    background:url('images/like_button_clicked.gif') no-repeat 0 0 #FFF;
     cursor: default;
 }
